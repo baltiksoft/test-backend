@@ -1,0 +1,20 @@
+INSERT INTO `ads` VALUES ('Объявление 4', 'obieiavlenie-4', 'Описание объявления 4', 2000, '2024-06-14 06:44:38', '2024-06-14 06:44:38');
+INSERT INTO `ads` VALUES ('Объявление 12', 'obieiavlenie-12', 'Описание объявления 12', 1350, '2024-06-14 06:58:39', '2024-06-14 06:58:39');
+INSERT INTO `ads` VALUES ('Объявление 13', 'obieiavlenie-13', 'Описание объявления 13', 1800, '2024-06-14 07:00:05', '2024-06-14 07:00:05');
+INSERT INTO `ads` VALUES ('Объявление 14', 'obieiavlenie-14', 'Описание объявления 14', 800, '2024-06-14 07:00:17', '2024-06-14 07:00:17');
+INSERT INTO `ads` VALUES ('Объявление 15', 'obieiavlenie-15', 'Описание объявления 15', 500, '2024-06-14 07:00:29', '2024-06-14 07:00:29');
+INSERT INTO `ads` VALUES ('Объявление 1', 'obieiavlenie-1', 'Описание 1', 2500, '2024-06-14 12:51:42', '2024-06-14 12:51:42');
+
+INSERT INTO `photos` VALUES (18, 'https://30.img.avito.st/image/1/1.koyvS7a4PmWZ4vxgh1nGwNbpPGMR6rxt2e88Zx_iNm8Z.Fpj_t4I5ZdzuXUtgeI0ZqnIzTW7IRv-5e1zJj8OGxNU');
+INSERT INTO `photos` VALUES (18, 'https://10.img.avito.st/image/1/1.JCXMura4iMz6E0rJiKJwabUYispyGwrEuh6KznwTgMZ6.miUJEhNgr81J-l0kJRiJqDtPYZXsT1icZGNL3DQxG_4');
+INSERT INTO `photos` VALUES (26, 'https://40.img.avito.st/image/1/1.2YNvsLa4dWpZGbdvUf-vvB8Sd2zREfdiGRR3aN8ZfWDZ.U1I3H3cbwI69DPuMgCiHBOJgL6F4ieKDshxMzmhaA0Q');
+INSERT INTO `photos` VALUES (26, 'https://50.img.avito.st/image/1/1.rjoEhba4AtMyLMDWVMvYBXQnANW6JIDbciEA0bQsCtmy.kOAqFr3WzdXzs_lB0S-zc6NulkYOcV9_DWY1OO2ZMCs');
+INSERT INTO `photos` VALUES (27, 'https://60.img.avito.st/image/1/1.E9z32ra4vzXBc30w3aoq2Op4vTNJez09gX69N0dztz9B.z6zt2pbkc04mFFiYBDZUf_XazwmpYjHaIgIvOnaQkHc');
+INSERT INTO `photos` VALUES (27, 'https://50.img.avito.st/image/1/1.A6rP9La4r0P5XW1GxYg6rtJWrUVxVS1LuVCtQX9dp0l5.rfl3sJkODRzgGpKXlSpQMWqIa7BQTnre_apZrK3ITso');
+INSERT INTO `photos` VALUES (28, 'https://90.img.avito.st/image/1/1.8PX4Bba4XBzOrJ4ZlDLDwp2nXhpGpN4UjqFeHkisVBZO.xS_5tNbtLRX67mHWd53osYm9k5JcjHJ_QG7nDFY1X14');
+INSERT INTO `photos` VALUES (28, 'https://60.img.avito.st/image/1/1.oEmo7ba4DKCeRM6l5JuTfs1PDqYWTI6o3kkOohhEBKoe.VCUu7CR3MLF9bMp6rHwFkDI_ukjWS3XwTCn7gHKnW_0');
+INSERT INTO `photos` VALUES (29, 'https://30.img.avito.st/image/1/1.XS2k-La48cSSUTPBkoEoBcFa88IaWXPM0lzzxhRR-c4S.3w1_BROFWtq4UCgTZlOc9Sg_AwQsnXtvB1kNOqeUyZ4');
+INSERT INTO `photos` VALUES (29, 'https://90.img.avito.st/image/1/1.Gqxgt7a4tkVWHnRAWJdenAYVtEPeFjRNFhO0R9Aevk_W.ol6v79pE7hmvuNRShejgm3FtGar-H-cGIWnHgwq1Wms');
+INSERT INTO `photos` VALUES (34, 'https://00.img.avito.st/image/1/1.LVQ0Fba4gb0CvEO4YgF1HTS3g7uKtAO1QrGDv4S8ibeC.vzuQgd4DQjg_BtNcNX9XTjgMqjyWy1VgxpnXqQY80d4');
+INSERT INTO `photos` VALUES (34, 'https://00.img.avito.st/image/1/1.LVQ0Fba4gb0CvEO4YgF1HTS3g7uKtAO1QrGDv4S8ibeC.vzuQgd4DQjg_BtNcNX9XTjgMqjyWy1VgxpnXqQY80d4');
+INSERT INTO `photos` VALUES (34, 'https://00.img.avito.st/image/1/1.LVQ0Fba4gb0CvEO4YgF1HTS3g7uKtAO1QrGDv4S8ibeC.vzuQgd4DQjg_BtNcNX9XTjgMqjyWy1VgxpnXqQY80d4');
