@@ -28,7 +28,7 @@ class AdsService
             $fileNamesCollection = collect();
             foreach ($fileNames as $fileName) {
                 $photos = new Photos();
-                $photos->filename = $fileName;
+                $photos->filename = $fileName['value'];
                 $fileNamesCollection[] = $photos;
             }
             $ads->filenames()->saveMany($fileNamesCollection);
@@ -42,6 +42,7 @@ class AdsService
     private function baseQuery() {
         return Ads::addSelect([
             'name',
+            'slug',
             'filename' => Photos::select('filename')->whereColumn('ads_id', 'ads.id')
             ->latest()
             ->take(1),
